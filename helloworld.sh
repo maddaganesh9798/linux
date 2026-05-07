@@ -6,4 +6,5 @@
 # echo "Total arguments: $#"
 # echo "Total arguments: $@"
 # echo "Total arguments: $?"
+echo "enter yor name:"
 echo " Hello $name"
