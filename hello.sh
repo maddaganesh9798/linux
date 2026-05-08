@@ -9,4 +9,4 @@
 # echo "enter yor name:"
 # echo " Hello $name"
 sum = $(5+5)
-echo "$sum"
+echo "$sum"x
